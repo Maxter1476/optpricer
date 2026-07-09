@@ -58,7 +58,3 @@ vol = implied_vol(10.45, 100, 100, 0.05, 1.0)   # -> 0.20
 pytest -q      # 34 tests
 ruff check .
 ```
-
-## License
-
-MIT

@@ -8,7 +8,6 @@ version = "0.1.0"
 description = "Option pricing three ways — analytic Black-Scholes, CRR binomial, variance-reduced Monte Carlo — each method validating the others"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
 dependencies = ["numpy>=1.24", "scipy>=1.10"]
 
 [project.optional-dependencies]
