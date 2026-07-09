@@ -1,6 +1,7 @@
 # optpricer
 
 ![CI](https://github.com/Maxter1476/optpricer/actions/workflows/ci.yml/badge.svg)
+
 **Option pricing three independent ways — analytic Black-Scholes-Merton, CRR
 binomial trees, and variance-reduced Monte Carlo — with a test suite where
 each method must validate the others.**
